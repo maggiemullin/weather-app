@@ -96,7 +96,7 @@ export default {
   methods: {
     fetchCities() {
       this.cities =
-      ["Barrie", "Antarctica", "Montego Bay", "London", "Las Vegas", "Feversham", "Kimberley"];
+      ["Barrie", "Antarctica", "Montego Bay", "London", "Las Vegas", "Feversham", "Thornbury"];
     },
 
     getRandomInt(max = 128){
